@@ -1,0 +1,18 @@
+appName: articles-service
+
+server:
+  port: "8000"
+  log_level: 3
+
+db:
+  postgre:
+    host: 127.0.0.1
+    port: 5432
+    dbname: mister_aladin
+    user: postgres
+    password: postgres
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    user: eronman
+    password: eronman
