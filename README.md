@@ -36,7 +36,7 @@ You can run the service by using the following command, after that the service i
 
 # Use the service
 you can use services with consumption to API endpoints that are already created, you can use the postman tool. to make it easier to use I've created a workspace for it, and it's ready to use
-https://app.getpostman.com/join-team?invite_code=276bf299fb82f7b5824b51fe3f8d5e92&target_code=b3efbbb3d1722817eae77f77cd139249
+https://www.postman.com/lively-comet-875863/workspace/mister-aladin-test-workspace/collection/18402968-42a65d81-520a-471e-b619-75a9aa10fe7c?action=share&creator=18402968
 
 # Thank You
 if there are problems or want to know more information about me, please contact via linkedin via the following link https://www.linkedin.com/in/adi-khoiron-hasan or by sending an email to adikhoironhasan@gmail.com
