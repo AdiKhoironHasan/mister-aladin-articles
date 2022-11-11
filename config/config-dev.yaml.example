@@ -1,0 +1,18 @@
+appName: articles-service
+
+server:
+  port: "8000"
+  log_level: 3
+
+db:
+  postgre:
+    host: 127.0.0.1
+    port: yourPort
+    dbname: yourDB
+    user: yourUser
+    password: yourPass
+  redis:
+    host: 127.0.0.1
+    port: yourPort
+    user: yourUser
+    password: yourPass
