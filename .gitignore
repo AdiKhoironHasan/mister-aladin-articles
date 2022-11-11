@@ -1,2 +1,2 @@
-# igonre config
-config/.yaml
+# ignore config
+/config/config-dev.yaml
